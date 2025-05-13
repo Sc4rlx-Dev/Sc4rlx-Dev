@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Sc4rlx-Dev! 👋
 
-<!--
-**Sc4rlx-Dev/Sc4rlx-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer who loves building innovative projects, learning new technologies, and collaborating with awesome people.
+[![oer-raou's 42 stats](https://badge.mediaplus.ma/binary/oer-raou)](https://github.com/oakoudad/badge42)
+---
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages**: Python, JavaScript, Golang
+- **Frameworks**: React, Node.js
+- **Tools**: Git, Docker, Kubernetes
+- **Databases**: MySQL, PostgreSQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+Here are some of the cool projects I've been working on:
+- [Project Name 1](https://github.com/Sc4rlx-Dev/project1): A brief description of what this project does.
+- [Project Name 2](https://github.com/Sc4rlx-Dev/project2): Another project with a short description.
+
+---
+
+## 📈 GitHub Stats
+![Sc4rlx-Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sc4rlx-Dev&show_icons=true&theme=radical)
+
+---
+
+## 💬 Let's Connect
+- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin-username)
+- 🌐 [Portfolio](https://your-portfolio-link.com)
+- 📧 [Email](mailto:your-email@example.com)
+
+Feel free to explore my repositories and connect with me! 😊
