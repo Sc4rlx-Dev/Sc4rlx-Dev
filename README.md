@@ -39,8 +39,8 @@ graph TD;
 
 
 ## 💬 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin-username)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
-- 📧 [Email](mailto:your-email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/oussama-er-raoui/)
+- 🌐 [Portfolio](-)
+- 📧 [Email](itsscarl2022@gmail.com)
 
 Feel free to explore my repositories and connect with me! 😊
