@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building inno
 ---
 
 ## 🔧 Technologies & Tools
-- **Languages**: Python, JavaScript, Golang
+- **Languages**: C , Python, JavaScript, Golang
 - **Frameworks**: React, Node.js
 - **Tools**: Git, Docker, Kubernetes
 - **Databases**: MySQL, PostgreSQL, MongoDB
