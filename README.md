@@ -24,6 +24,20 @@ Here are some of the cool projects I've been working on:
 
 ---
 
+# Skills Diagram
+
+```mermaid
+graph TD;
+    Programming-->Python;
+    Programming-->JavaScript;
+    Programming-->Go;
+    Frontend-->React;
+    Backend-->Node.js;
+    Backend-->Go;
+    Systems-->C;
+```
+
+
 ## 💬 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/your-linkedin-username)
 - 🌐 [Portfolio](https://your-portfolio-link.com)
