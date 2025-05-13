@@ -13,9 +13,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building inno
 ---
 
 ## 🚀 Projects
-Here are some of the cool projects I've been working on:
-- [Project Name 1](https://github.com/Sc4rlx-Dev/project1): A brief description of what this project does.
-- [Project Name 2](https://github.com/Sc4rlx-Dev/project2): Another project with a short description.
+Here are some of the cool projects I've been working on: 
+
+Soon..
+
 
 ---
 
